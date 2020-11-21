@@ -10,7 +10,7 @@ Does this resonate with you? Let me try to condense this journey into an image.
   <img src="https://github.com/AlfaBetaBeta/AlfaBetaBeta/blob/main/img/metaphor.png" width=100% height=100%>
 </p>
 
-Granted, attempting to plot a metaphor has limitations. The learning journey is meant to be endless whereas the arch is finite (it couldn’t be otherwise, it is *literally* made of finite elements, check out [this repository](https://github.com/AlfaBetaBeta/gmsh-3D-arch-mesoscale) if you are keen on generating it yourself). Also, I could not find compelling interpretations of the arch width or its thickness. Speaking of the curse of narrative dimensionality. But you get the idea.
+Granted, attempting to plot an allegory has limitations. The learning journey is meant to be endless whereas the arch is finite (it couldn’t be otherwise, it is *literally* made of finite elements, check out [this repository](https://github.com/AlfaBetaBeta/gmsh-3D-arch-mesoscale) if you are keen on generating it yourself). Also, I could not find compelling interpretations of the arch width or its thickness. Speaking of the curse of narrative dimensionality. But you get the idea.
 
 And what substantiates the journey, what makes the arch stable? The common mindset across disciplines. The same notional pipeline leading to insights from raw data. 
 
