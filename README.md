@@ -38,7 +38,7 @@ Here is a sample of my fields of interest, with a showcasing example per tool:
 [<img align="left" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][igraph]
 [<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][solarsystem]
 [<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="Gmsh" width="40px" src="https://github.com/AlfaBetaBeta/AlfaBetaBeta/blob/main/img/gmsh_logo.png" />][arch]
+[<img align="left" alt="Gmsh" width="40px" src="https://github.com/AlfaBetaBeta/AlfaBetaBeta/blob/main/img/gmsh_logo.png" />][bridge]
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][githubio]
 
 </br>
@@ -66,5 +66,5 @@ Incidentally, if you found the introduction evocative, I elaborated more on the 
 [igraph]: https://github.com/AlfaBetaBeta/Football-Network-Analysis
 [solarsystem]: https://github.com/AlfaBetaBeta/SQL-Tutorial-Solar-System
 [mongodb]: https://github.com/AlfaBetaBeta/NoSQL-mongoDB-Tutorial
-[arch]: https://github.com/AlfaBetaBeta/gmsh-3D-arch-mesoscale
+[bridge]: https://github.com/AlfaBetaBeta/gmsh-3D-arch-bridge
 [githubio]: https://github.com/AlfaBetaBeta/AlfaBetaBeta.github.io
