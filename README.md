@@ -46,7 +46,7 @@ Here is a sample of my fields of interest, with a showcasing example per tool:
 
 ### Miscellanea
 
-Aside from learning, I like sharing the notions I have assimilated once they fully make sense to me (nothing makes you learn better than teaching). A little side project I have kept rolling is a series of video animations à la [3b1b](https://github.com/3b1b) about structural analysis and design. It is still under construction (involuntary pun) but once the first couple of videos are ripe, I will flesh out the repository here and upload those to a YouTube channel, hopefully not too far down the line. Here is a teaser if this topic tickles your curiosity:
+Aside from learning, I like sharing the notions I have assimilated once they fully make sense to me (nothing makes you learn better than teaching). A little side project I have kept rolling is a series of video animations à la [3b1b](https://github.com/3b1b) about structural analysis and design. It is still under construction (involuntary pun) but once the first couple of videos are ripe, I will flesh out the repository here and start uploading those to a YouTube channel, hopefully not too far down the line. Here is a teaser if this topic tickles your curiosity:
 <p align="center">
   <img src ="https://github.com/AlfaBetaBeta/AlfaBetaBeta/blob/main/img/animation.gif" />
 </p>
